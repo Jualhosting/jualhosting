@@ -25,6 +25,7 @@ Your support literally keeps the servers running and the deployment pipelines fl
 👇 **Click here to buy me a coffee! (Zero corporate tax, pure developer love)** 👇
 
 [![Support me on Ko-fi](https://img.shields.io/badge/Support%20Me%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jualhosting)
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Jualhosting)
 
 ---
 
